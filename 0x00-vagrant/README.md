@@ -1,1 +1,1 @@
-ssh
+hello ubuntu
